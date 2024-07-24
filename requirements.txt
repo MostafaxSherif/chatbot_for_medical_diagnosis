@@ -1,0 +1,9 @@
+pandas
+langchain
+scipy
+numpy
+pypdf
+cryptography
+Pillow
+streamlit-chat
+streamlit
